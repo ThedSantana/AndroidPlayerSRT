@@ -37,7 +37,7 @@ public class VideoActivity extends Activity {
 	
 	private boolean isPlaying = true;//
 
-	private String filePath = "http://localhost/test.mp4";
+	private String filePath = "http://192.168.1.16/test.mp4";
 	Timer	startShowSRTTimer ;
 
 
